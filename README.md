@@ -2,6 +2,8 @@
 
 A flexbox pricing grid. Built for Wes Bos' [Flexbox course](https://flexbox.io/).
 
+See the page live [here](https://gk-hynes.github.io/flexbox-pricing-grid/)
+
 ## Grid with equal height cards
 
 Use nested flexbox containers to have the cards be of equal height but push the call to action button to the bottom.
